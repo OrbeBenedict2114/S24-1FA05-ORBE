@@ -7,7 +7,7 @@
 
                                                                                                                          How to Run the Program:
                                                                                                               1. Press the Run button on the top right of your screen
-                                                                                                              2. Enter the both points (x1 , y1) and (x2, y2)
+                                                                                                              2. Enter both points (x1 , y1) and (x2, y2)
                                                                                                               3. Once you enter both points the program should do it for you
                                                                                                                 and it will display the final answer
                
